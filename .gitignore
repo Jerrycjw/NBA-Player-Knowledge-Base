@@ -15,6 +15,6 @@ examples/mindtagger
 /deepdive-*.tar.gz
 /mindtagger.pid
 /mindtagger
-
+.idea/*
 # pickled data from notebooks
 *.pkl
